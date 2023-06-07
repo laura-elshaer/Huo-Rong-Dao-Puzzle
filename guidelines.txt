@@ -4,3 +4,8 @@ The 2x2 piece is denoted by 1.
 The single pieces are denoted by 2.
 A horizontal 1x2 piece is denoted by < on the left and > on the right. 
 A vertical 1x2 piece is denoted by ^ on the top and v on the bottom (lower cased letter v).
+
+Run the following commands to solve the puzzle:
+
+    python3 hrd.py --algo astar --inputfile <input file> --outputfile <output file>    
+    python3 hrd.py --algo dfs --inputfile <input file> --outputfile <output file
