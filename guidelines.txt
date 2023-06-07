@@ -1,0 +1,6 @@
+Each state is a grid of 20 characters. The grid has 5 rows with 4 characters per row.
+The empty squares are denoted by the period symbol.
+The 2x2 piece is denoted by 1.
+The single pieces are denoted by 2.
+A horizontal 1x2 piece is denoted by < on the left and > on the right. 
+A vertical 1x2 piece is denoted by ^ on the top and v on the bottom (lower cased letter v).
